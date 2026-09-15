@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
         - name: myntra-app
-          image: 511176957406.dkr.ecr.ap-south-1.amazonaws.com/myntra-app:latest
+          image: image: 511176957406.dkr.ecr.ap-south-1.amazonaws.com/b11:myntra-latest
 
           ports:
             - containerPort: 5000
